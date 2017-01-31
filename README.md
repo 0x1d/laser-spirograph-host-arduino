@@ -1,1 +1,1 @@
-# laser-spirograph-arduino
+# laser-spirograph-host-arduino
